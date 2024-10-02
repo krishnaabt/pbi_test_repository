@@ -27,6 +27,24 @@
       "name": "db45bdc7394345ed79ef",
       "visualContainers": [
         {
+          "config": "{\"name\":\"0f7f734a408fc3c3821f\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":629.8819468415602,\"z\":2002,\"width\":704.6406627545737,\"height\":90.66482568173973,\"tabOrder\":2002}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Test 12_Krishna test\",\"textStyle\":{\"fontSize\":\"44pt\"}}]}]}}]}}}",
+          "filters": "[]",
+          "height": 90.66,
+          "width": 704.64,
+          "x": 0.00,
+          "y": 629.88,
+          "z": 2002.00
+        },
+        {
+          "config": "{\"name\":\"4b611028cce1beb5ca10\",\"layouts\":[{\"id\":0,\"position\":{\"x\":575.8011736278909,\"y\":133.61132205730064,\"z\":2001,\"width\":704.6406627545737,\"height\":90.66482568173973,\"tabOrder\":2001}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Test 22_Krishna test\",\"textStyle\":{\"fontSize\":\"44pt\"}}]}]}}]}}}",
+          "filters": "[]",
+          "height": 90.66,
+          "width": 704.64,
+          "x": 575.80,
+          "y": 133.61,
+          "z": 2001.00
+        },
+        {
           "config": "{\"name\":\"784245abdb6d7947b57c\",\"layouts\":[{\"id\":0,\"position\":{\"x\":150,\"y\":30.5,\"width\":300,\"height\":150,\"z\":2000,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Gowri Test\",\"textStyle\":{\"fontSize\":\"24pt\"}}]},{\"textRuns\":[{\"value\":\"\"}]}]}}]}}}",
           "filters": "[]",
           "height": 150.00,
@@ -36,12 +54,12 @@
           "z": 2000.00
         },
         {
-          "config": "{\"name\":\"922e0c04165db6b292a6\",\"layouts\":[{\"id\":0,\"position\":{\"x\":359.47808077321366,\"y\":230.63859164653087,\"z\":0,\"width\":704.6406627545737,\"height\":283.12875388332753,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Test 2_Krishna test\",\"textStyle\":{\"fontSize\":\"44pt\"}}]}]}}]}}}",
+          "config": "{\"name\":\"922e0c04165db6b292a6\",\"layouts\":[{\"id\":0,\"position\":{\"x\":575.8011736278909,\"y\":14.31549879185364,\"z\":0,\"width\":704.6406627545737,\"height\":90.66482568173973,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Test 2_Krishna test\",\"textStyle\":{\"fontSize\":\"44pt\"}}]}]}}]}}}",
           "filters": "[]",
-          "height": 283.13,
+          "height": 90.66,
           "width": 704.64,
-          "x": 359.48,
-          "y": 230.64,
+          "x": 575.80,
+          "y": 14.32,
           "z": 0.00
         },
         {
