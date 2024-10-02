@@ -27,9 +27,9 @@
       "name": "db45bdc7394345ed79ef",
       "visualContainers": [
         {
-          "config": "{\"name\":\"922e0c04165db6b292a6\",\"layouts\":[{\"id\":0,\"position\":{\"x\":359.47808077321366,\"y\":230.63859164653087,\"z\":0,\"width\":279.9475319295823,\"height\":279.9475319295823,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Test 1\",\"textStyle\":{\"fontSize\":\"44pt\"}}]}]}}]}}}",
+          "config": "{\"name\":\"922e0c04165db6b292a6\",\"layouts\":[{\"id\":0,\"position\":{\"x\":359.47808077321366,\"y\":230.63859164653087,\"z\":0,\"width\":279.9475319295823,\"height\":106.570935450466,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Test 2\",\"textStyle\":{\"fontSize\":\"44pt\"}}]}]}}]}}}",
           "filters": "[]",
-          "height": 279.95,
+          "height": 106.57,
           "width": 279.95,
           "x": 359.48,
           "y": 230.64,
