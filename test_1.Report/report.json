@@ -45,6 +45,15 @@
           "z": 0.00
         },
         {
+          "config": "{\"name\":\"ea4db7d2402618fb1667\",\"layouts\":[{\"id\":0,\"position\":{\"x\":150,\"y\":532,\"width\":300,\"height\":150,\"z\":2001,\"tabOrder\":2001}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Testing Commit synch\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"32pt\"}}]}]}}]}}}",
+          "filters": "[]",
+          "height": 150.00,
+          "width": 300.00,
+          "x": 150.00,
+          "y": 532.00,
+          "z": 2001.00
+        },
+        {
           "config": "{\"name\":\"f051a340a870c275a5f4\",\"layouts\":[{\"id\":0,\"position\":{\"x\":150,\"y\":296.75,\"width\":300,\"height\":150,\"z\":1000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true}}",
           "filters": "[]",
           "height": 150.00,
